@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://chisocnet.netlify.app/sitemap.xml

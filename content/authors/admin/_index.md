@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: The Chilean Society of Social Network Science (CHISOCNET).
+
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -42,8 +42,8 @@ superuser: true
 title: Nelson Bighetti
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Chilean Society of Social Network Science (CHISOCNET) aims to develop the Social Network Science in Chile to become in the next decade a group of reference from Latin America and the International Community of the Social Network Science. To achieve this objective, CHISOCNET will congregate, broadcast, and support the researchers that are actively working in the Social Network Science within Chile, Latin America and internationally.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The Social Network Science in Chile presumably was developed in the early ‘90 and has grown in the last decades on more than 17 universities from around the country. Currently, there is no formal Community of the Social Network Science in Chile or a postgraduate program with an emphasis exclusively on these topics. The aim of CHISOCNET is to fill the gap and create the society during the decade of 2020-2030.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
